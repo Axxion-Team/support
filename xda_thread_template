@@ -1,0 +1,103 @@
+[CENTER][IMG]https://lh6.googleusercontent.com/-x5znesxMPUY/VY-Zc5Fug9I/AAAAAAAAGVY/yI6yn71VC8I/w1400-h700-no/banner.png[/IMG]
+
+[IMG]http://s2.subirimagenes.com/imagen/previo/thump_9409989about.png[/IMG]
+[QUOTE][QUOTE][FONT="Book Antiqua"][SIZE="5"]Welcome to AxxionPop! While it's been a tough few months developing, we finally managed to release! The two main people working on this are [MENTION=5725382]siracuervo[/MENTION] and @ThatKawaiiGuy (who are both school students), they've both worked their butts off on this, busy with school and their own lives, so we appreciate any sort of positive feedback on the rom. Since we are students and too young to work at any jobs, any sort of donation is appreciated and you can donate through PayPal to [email]AxxionKat@gmail.com[/email]. 
+
+For those who are late to this Axxion party, we released around May last year in Kitkat with the title AxxionKat, we were still beginners in Android development, but this time we're releasing with a few original features such as legacy menu navbar customizations, power menu positions and floating window ported from kitkat with some enhancements and fixes. Very nice work from [MENTION=5725382]siracuervo[/MENTION]. [/SIZE][/FONT][/QUOTE][/QUOTE]
+
+[IMG]http://s2.subirimagenes.com/imagen/previo/thump_9409992team.png[/IMG]
+
+[SIZE="4"][B]Sira Cuervo (me) - Cofounder, core developer and maintainer for hammerhead
+Ivan Martinez (@ThatKawaiiGuy) Cofounder, developer, themer
+Art Cotto (@artcotto) Graphic designer, themer
+Nat Stragerweather (@StrangerWeather) Developer[/B][/SIZE]
+
+[IMG]http://s2.subirimagenes.com/imagen/previo/thump_9410021features.png[/IMG]
+[B]Built with latest UberTc 4.9 by @CI3Kener
+[/B][B]RRO Layers support
+[/B]Screenrecord
+[B]App ops
+[/B]Silent Mode
+Customizable Power Menu
+[B]Slim's Navigation Bar customization with some Axxion tweaks (Free customizable dimensions, legacy menu customization by me [MENTION=5725382]siracuervo[/MENTION])
+[/B]Doze implemented as active display
+Volume Rocker Wake and Music controls
+[B]Floating Window enhanced for multitasking with tinted titlebar and more Axxion Tweaks! (Available to launch via navbar, recents or headsup)
+[/B]
+DocumentsUI as native file manager 
+Eleven music player with visualizer
+Kernel Adiutor built in
+Quick unlock
+Expanded volume panel
+[B][B]StatusBar Clock and date customizations (including left clock, seconds and font styles)
+[/B][/B]Custom NavRing targets
+Double tap to sleep on statusbar
+Advanced IME features
+Improved AOSP Keyboard
+Quick access to clock and calendar via their respective buttons in notification header
+Quick Pulldown
+Bottom edges custom lockscreen shortcuts
+Slim lockscreen shortcuts (the ones on the middle of the keyguard)
+[B]Headsup customizations (pd: to launch in floating mode, longpress and release!)
+[/B]Expanded desktop
+Development shortcut in recent app screen
+[B]Customizable AOSP Recents
+Slim Recents
+OmniSwitch[/B]
+All what had a holo ui rest, is gone, all materialized.
+Option to show a power menu button in expanded header (where weather goes)
+[B]Highly customizable battery styles
+[/B]Speed system up
+[B]Complete QS customization
+[/B]
+Navbar left on landscape for left-handed like me [MENTION=5725382]siracuervo[/MENTION] :P
+App info button in notification longpress
+Advanced reboot (including soft-reboot)
+Battery saver and screen pinning improvements....
+[I][B]And many more! Just test it out!
+[/B][/I]
+
+[IMG]http://s2.subirimagenes.com/imagen/previo/thump_9410061download.png[/IMG]
+
+
+[LEFT][FONT="Arial"][SIZE="6"][URL="https://basketbuild.com/devs/AxxionKat/hammerhead"]v1.0[/URL]
+
+Gapps: Use any 5.1 gapps out there, any should work, personally I used Slim GApps by [MENTION=1277872]dankoman[/MENTION]
+
+[URL="https://download.chainfire.eu/696/SuperSU/UPDATE-SuperSU-v2.46.zip?retrieve_file=1"]SuperSU[/URL]
+[/SIZE][/FONT][/LEFT]
+
+
+[IMG]http://s2.subirimagenes.com/imagen/previo/thump_9410092contact.png[/IMG]
+[SIZE="1"]
+[URL="https://plus.google.com/u/0/communities/106623648877858799989"][IMG]http://boxit.com.uy/wp-content/uploads/2015/03/googleplus.png[/IMG][/URL][URL="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=96JY2KDZDEB32"][IMG]http://is1.mzstatic.com/image/pf/us/r30/Purple7/v4/f1/05/b9/f105b978-ff60-1789-9ca8-3e3efc6fa9d0/mzl.vkhtjrph.128x128-75.png[/IMG][/URL][/SIZE][URL="https://github.com/Axxion-Team"][IMG]http://code-bude.net/wp-content/uploads/2013/10/1372714624_github_circle_black.png[/IMG]
+[/URL]
+[/CENTER]
+
+Credits/Thanks
+
+Google for his awesome material design and android
+OmniROM for rom base
+CM for his always good support and features
+SlimRoms
+AICP 
+Fusion ROM
+CyanideL
+[I]And anyone who contributed and helped....
+[/I][B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
+[SIZE=3][B]AxxionPop, ROM for the Google Nexus 5[/B][/SIZE]
+
+[B][U]Contributors[/U][/B]
+[URL="http://forum.xda-developers.com/member.php?u=5725382"]siracuervo[/URL], [URL="http://forum.xda-developers.com/member.php?u=5124706"]ThatKawaiiGuy[/URL], [URL="http://forum.xda-developers.com/member.php?u=765396"]artcotto[/URL]    
+[B]Source Code:[/B] [URL="http://www.github.com/Axxion-Team"]http://www.github.com/Axxion-Team[/URL]
+
+[B]ROM OS Version:[/B] 5.1.x Lollipop
+[B]Based On:[/B] AOSP
+
+[B][U]Version Information[/U][/B]
+[B]Status:[/B] Beta
+[B]Current Beta Version:[/B] v1.0
+[B]Beta Release Date:[/B] 2015-07-06
+
+[B]Created[/B] 2015-07-06
+[B]Last Updated[/B] 2015-07-06
